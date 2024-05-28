@@ -1,0 +1,40 @@
+{
+  "friendList": [
+    {
+      "name": "Tushar",
+      "middleName": null,
+      "ag": 25,
+      "cgpa": 3.53,
+      "isRegistered": true,
+      "language": ["bangali", "english", "hindi"],
+      "friends": [
+        {
+          "name": "Tushar",
+          "age": 25
+        },
+        {
+          "name": "ruhul",
+          "age": 25
+        }
+      ]
+    },
+    {
+      "name": "Rabeya Begum",
+      "middleName": null,
+      "age": 28,
+      "cgpa": 3.5,
+      "isRegistered": false,
+      "language": ["bangali", "english", "hindi", "china"],
+      "friends": [
+        {
+          "name": "shakila",
+          "age": 24
+        },
+        {
+          "name": "nabila",
+          "age": 26
+        }
+      ]
+    }
+  ]
+}
