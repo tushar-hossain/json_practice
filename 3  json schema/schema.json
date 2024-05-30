@@ -1,0 +1,28 @@
+
+[{
+   "1": "https://www.liquid-technologies.com/online-json-to-schema-converter",
+
+
+   "2":"https://www.jsonschemavalidator.net/"
+}]
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    }
+  },
+  "required": ["name", "age"]
+}
+
+
+
+{
+"name":"tushar",
+  "age":25
+}
